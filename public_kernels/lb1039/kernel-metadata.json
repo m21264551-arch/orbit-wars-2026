@@ -1,0 +1,21 @@
+{
+  "id": "suntzuisafteru/orbit-wars-1039-2-lb-launch-safety-heuristic",
+  "id_no": 120352503,
+  "title": "Orbit Wars 1039.2 LB: Launch-Safety Heuristic",
+  "code_file": "orbit-wars-1039-2-lb-launch-safety-heuristic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "orbit-wars"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:c370a5ff133d162d17c2dca332b50f3e85c0b0ed1471ee18e98e3009eee80b08",
+  "machine_shape": "None"
+}

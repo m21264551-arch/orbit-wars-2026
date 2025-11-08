@@ -1,0 +1,24 @@
+[
+  {
+    "games": 20,
+    "wins": 6,
+    "ties": 0,
+    "losses": 14,
+    "win_rate": 0.3,
+    "avg_margin": -711.7,
+    "overrides": {
+      "TUNE_STATIC_BONUS_2P": "3.0"
+    }
+  },
+  {
+    "games": 20,
+    "wins": 5,
+    "ties": 0,
+    "losses": 15,
+    "win_rate": 0.25,
+    "avg_margin": -879.0,
+    "overrides": {
+      "TUNE_STATIC_BONUS_2P": "2.18"
+    }
+  }
+]

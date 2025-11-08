@@ -1,0 +1,24 @@
+[
+  {
+    "games": 20,
+    "wins": 5,
+    "ties": 0,
+    "losses": 15,
+    "win_rate": 0.25,
+    "avg_margin": -879.0,
+    "overrides": {
+      "TUNE_EXPAND_BONUS": "3.0"
+    }
+  },
+  {
+    "games": 20,
+    "wins": 5,
+    "ties": 0,
+    "losses": 15,
+    "win_rate": 0.25,
+    "avg_margin": -902.65,
+    "overrides": {
+      "TUNE_EXPAND_BONUS": "1.5"
+    }
+  }
+]

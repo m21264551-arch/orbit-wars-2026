@@ -1,0 +1,57 @@
+[
+  {
+    "games": 8,
+    "wins": 6,
+    "ties": 0,
+    "losses": 2,
+    "win_rate": 0.75,
+    "avg_margin": 1061.375,
+    "overrides": {
+      "TUNE_VALUE_WEIGHT_2P": "6.5"
+    }
+  },
+  {
+    "games": 8,
+    "wins": 5,
+    "ties": 1,
+    "losses": 2,
+    "win_rate": 0.625,
+    "avg_margin": 961.5,
+    "overrides": {
+      "TUNE_VALUE_WEIGHT_2P": "5.5"
+    }
+  },
+  {
+    "games": 8,
+    "wins": 3,
+    "ties": 2,
+    "losses": 3,
+    "win_rate": 0.375,
+    "avg_margin": 290.625,
+    "overrides": {
+      "TUNE_VALUE_WEIGHT_2P": "4.5"
+    }
+  },
+  {
+    "games": 8,
+    "wins": 3,
+    "ties": 2,
+    "losses": 3,
+    "win_rate": 0.375,
+    "avg_margin": 0.0,
+    "overrides": {
+      "TUNE_VALUE_WEIGHT_2P": "4.86"
+    }
+  },
+  {
+    "games": 8,
+    "wins": 3,
+    "ties": 0,
+    "losses": 5,
+    "win_rate": 0.375,
+    "avg_margin": -558.125,
+    "overrides": {
+      "TUNE_VALUE_WEIGHT_2P": "3.5"
+    }
+  }
+]

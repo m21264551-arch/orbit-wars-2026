@@ -1,0 +1,7 @@
+suite,subject,opponents,seat,games,seed_start,wins,ties,losses,errors,win_rate,avg_reward,avg_margin,avg_score,avg_opp_best_score
+2p,main,public_shuming,0,4,700000,0,0,4,0,0.0,-1.0,-2070.0,0.0,2070.0
+2p,main,public_shuming,1,4,700000,1,0,3,0,0.25,-0.5,-759.75,706.75,1466.5
+2p,main,public_ajay,0,4,700000,0,0,4,0,0.0,-1.0,-2129.0,0.0,2129.0
+2p,main,public_ajay,1,4,700000,1,0,3,0,0.25,-0.5,-902.5,644.5,1547.0
+2p,main,public_lb1039,0,4,700000,4,0,0,0,1.0,1.0,2450.75,2450.75,0.0
+2p,main,public_lb1039,1,4,700000,4,0,0,0,1.0,1.0,2277.25,2277.25,0.0

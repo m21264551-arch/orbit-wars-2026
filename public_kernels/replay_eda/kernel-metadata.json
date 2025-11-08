@@ -1,0 +1,25 @@
+{
+  "id": "nbridelancetb/orbit-wars-replay-eda",
+  "id_no": 119969317,
+  "title": "Orbit Wars Replay EDA",
+  "code_file": "orbit-wars-replay-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "nbridelancetb/orbit-wars-replay-parquet"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "orbit-wars"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:c370a5ff133d162d17c2dca332b50f3e85c0b0ed1471ee18e98e3009eee80b08",
+  "machine_shape": "None"
+}

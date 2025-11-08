@@ -1,0 +1,21 @@
+{
+  "id": "ajayrao43/oribt-war-12",
+  "id_no": 121359006,
+  "title": "Oribt war 12",
+  "code_file": "oribt-war-12.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "orbit-wars"
+  ],
+  "model_sources": [],
+  "docker_image": "gcr.io/kaggle-images/python@sha256:e5452ce6268c2e8345cfe5141f31ca7ff47032aca46a7ea532bbb87481281d0c",
+  "machine_shape": "None"
+}

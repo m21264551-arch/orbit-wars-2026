@@ -1,0 +1,46 @@
+[
+  {
+    "games": 20,
+    "wins": 14,
+    "ties": 0,
+    "losses": 6,
+    "win_rate": 0.7,
+    "avg_margin": 803.5,
+    "overrides": {
+      "TUNE_STATIC_BONUS_2P": "3.0"
+    }
+  },
+  {
+    "games": 20,
+    "wins": 13,
+    "ties": 0,
+    "losses": 7,
+    "win_rate": 0.65,
+    "avg_margin": 656.3,
+    "overrides": {
+      "TUNE_STATIC_BONUS_2P": "4.0"
+    }
+  },
+  {
+    "games": 20,
+    "wins": 10,
+    "ties": 0,
+    "losses": 10,
+    "win_rate": 0.5,
+    "avg_margin": 0.0,
+    "overrides": {
+      "TUNE_STATIC_BONUS_2P": "2.18"
+    }
+  },
+  {
+    "games": 20,
+    "wins": 9,
+    "ties": 1,
+    "losses": 10,
+    "win_rate": 0.45,
+    "avg_margin": -99.05,
+    "overrides": {
+      "TUNE_STATIC_BONUS_2P": "1.5"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "games": 8,
+    "wins": 6,
+    "ties": 0,
+    "losses": 2,
+    "win_rate": 0.75,
+    "avg_margin": 452.625,
+    "overrides": {
+      "TUNE_2P_PRESS_HAMMER_OK": "1.18"
+    }
+  },
+  {
+    "games": 8,
+    "wins": 4,
+    "ties": 0,
+    "losses": 4,
+    "win_rate": 0.5,
+    "avg_margin": 187.625,
+    "overrides": {
+      "TUNE_2P_PRESS_HAMMER_OK": "1.12"
+    }
+  },
+  {
+    "games": 8,
+    "wins": 4,
+    "ties": 0,
+    "losses": 4,
+    "win_rate": 0.5,
+    "avg_margin": -149.75,
+    "overrides": {
+      "TUNE_2P_PRESS_HAMMER_OK": "1.32"
+    }
+  },
+  {
+    "games": 8,
+    "wins": 4,
+    "ties": 0,
+    "losses": 4,
+    "win_rate": 0.5,
+    "avg_margin": -289.375,
+    "overrides": {
+      "TUNE_2P_PRESS_HAMMER_OK": "1.40"
+    }
+  },
+  {
+    "games": 8,
+    "wins": 2,
+    "ties": 0,
+    "losses": 6,
+    "win_rate": 0.25,
+    "avg_margin": -1468.625,
+    "overrides": {
+      "TUNE_2P_PRESS_HAMMER_OK": "1.25"
+    }
+  }
+]
