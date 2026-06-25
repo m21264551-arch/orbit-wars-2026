@@ -1,0 +1,32 @@
+v2 700k snapshot saved.
+
+4p,main_v61_baseline,public_ajay+public_evogen+public_rahul,2,4,800000,2,0,2,0,0.5,0.0,-285.25,1025.0,1310.25
+4p,main_v61_baseline,public_ajay+public_evogen+public_rahul,3,4,800000,2,0,2,0,0.5,0.0,-220.0,895.75,1115.75
+# aggregate subject=main_v61_baseline wins=111 ties=0 losses=209 errors=0 avg_margin=-1914.4
+
+=== SUMMARY ===
+candidate (Producer): 107/320 wins, margin -1867.7
+baseline  (v6.1)    : 111/320 wins, margin -1914.4
+Δ                    : -4 wins, +46.8 margin
+
+Per-group:
+  public_lb1039+public_lb1224+public_shuming: cand=3/16  base=5/16  Δ=-2
+  public_lb1039+public_lb1224+public_ajay: cand=3/16  base=4/16  Δ=-1
+  public_lb1039+public_lb1224+public_evogen: cand=2/16  base=3/16  Δ=-1
+  public_lb1039+public_lb1224+public_rahul: cand=10/16  base=10/16  Δ=+0
+  public_lb1039+public_shuming+public_ajay: cand=3/16  base=5/16  Δ=-2
+  public_lb1039+public_shuming+public_evogen: cand=4/16  base=4/16  Δ=+0
+  public_lb1039+public_shuming+public_rahul: cand=5/16  base=5/16  Δ=+0
+  public_lb1039+public_ajay+public_evogen: cand=5/16  base=3/16  Δ=+2
+  public_lb1039+public_ajay+public_rahul: cand=5/16  base=5/16  Δ=+0
+  public_lb1039+public_evogen+public_rahul: cand=9/16  base=5/16  Δ=+4
+  public_lb1224+public_shuming+public_ajay: cand=3/16  base=6/16  Δ=-3
+  public_lb1224+public_shuming+public_evogen: cand=4/16  base=4/16  Δ=+0
+  public_lb1224+public_shuming+public_rahul: cand=7/16  base=6/16  Δ=+1
+  public_lb1224+public_ajay+public_evogen: cand=4/16  base=5/16  Δ=-1
+  public_lb1224+public_ajay+public_rahul: cand=7/16  base=6/16  Δ=+1
+  public_lb1224+public_evogen+public_rahul: cand=11/16  base=11/16  Δ=+0
+  public_shuming+public_ajay+public_evogen: cand=4/16  base=4/16  Δ=+0
+  public_shuming+public_ajay+public_rahul: cand=5/16  base=6/16  Δ=-1
+  public_shuming+public_evogen+public_rahul: cand=6/16  base=7/16  Δ=-1
+  public_ajay+public_evogen+public_rahul: cand=7/16  base=7/16  Δ=+0

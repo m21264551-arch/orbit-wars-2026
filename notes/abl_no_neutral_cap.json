@@ -1,0 +1,13 @@
+[
+  {
+    "games": 50,
+    "wins": 22,
+    "ties": 0,
+    "losses": 28,
+    "win_rate": 0.44,
+    "avg_margin": -360.84,
+    "overrides": {
+      "V128_NEUTRAL_CAP": "0"
+    }
+  }
+]

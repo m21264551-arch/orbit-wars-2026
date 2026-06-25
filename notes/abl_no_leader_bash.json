@@ -1,0 +1,13 @@
+[
+  {
+    "games": 50,
+    "wins": 20,
+    "ties": 0,
+    "losses": 30,
+    "win_rate": 0.4,
+    "avg_margin": -483.5,
+    "overrides": {
+      "V128_LEADER_BASH": "0"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "games": 30,
+    "wins": 17,
+    "ties": 0,
+    "losses": 13,
+    "win_rate": 0.5666666666666667,
+    "avg_margin": 316.5,
+    "overrides": {
+      "V124_ANTI_SNIPE": "0"
+    }
+  }
+]
